@@ -55,10 +55,6 @@ pip install PyPDF2 pdfplumber pandas
 
 Como usar
 
-Clone este repositório:
-git clone https://github.com/seu-usuario/Bot-Handler-PDF.git
-cd Bot-Handler-PDF
-
 Execute o script principal:
 
 python main.py
@@ -79,6 +75,4 @@ Uma tabela será criada com informações organizadas, como data de vencimento e
 
 (Arquivos com Nomes iguais nao sao repetidos, caso tenha 2 ou + arquivos com o mesmo nome, apenas um sera movido para pasta, porem, na tabela XLSX, sera citado todos os arquivos, entao por la, o usuario podera verificar caso haja discrepancia na quantidade de arquivos finais gerados, e o total de arquivos manipulados pelo BOT).
 
-
-![Bot-Interface](https://github.com/user-attachments/assets/68313506-e8d4-4ef5-96fc-8a08d12225fc)
 
